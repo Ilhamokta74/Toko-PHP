@@ -1,3 +1,2 @@
 <?php
-	echo "Halaman Utama";
-	?>
+echo "Halaman Utama";
